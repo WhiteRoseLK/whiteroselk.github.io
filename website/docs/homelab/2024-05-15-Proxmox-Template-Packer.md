@@ -1,5 +1,5 @@
 ---
-title: Proxmox: Créer un template avec Packer
+title: "Proxmox: Créer un template avec Packer"
 ---
 
 Le but de mon HomeLab est d'être orienté IaC et DevOps, le but est donc de configurer un maximum de choses de manière automatisée.
