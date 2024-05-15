@@ -38,13 +38,13 @@ function Home() {
           <p>Plop, my name is:</p>
           <h1 className="text-success">Mathieu Bannwarth.</h1>
           <p>
-          I'm a Cybersecurity IT engineer | 🚩​CTF Player | 🧠​Multipotential | 🧗​Climber | So much more…
+          I'm
           </p>
           <ul>
-            <li>Cybersecurity IT engineer</li>
-            <li>🚩​CTF Player</li>
-            <li>🧠​Multipotential</li>
-            <li>🧗​Climber</li>
+            <li>💻 A Cybersecurity IT engineer</li>
+            <li>🚩 A CTF Player</li>
+            <li>🧠 A Multipotential</li>
+            <li>🧗 A Climber</li>
             <li>So much more…</li>
           </ul>
           <p>This is my <a href="https://whiteroselk.github.io/">Blog Space.</a> 🌱.</p>
