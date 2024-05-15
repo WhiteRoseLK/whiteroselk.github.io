@@ -1,5 +1,5 @@
 ---
-title: Creating VM's using Ansible and ESXi 5.5 Free Version.
+title: Proxmox installation
 ---
 
 Use Ansible to deploy a virtual machine instance on ESXi 5.5, free version.
