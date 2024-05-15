@@ -40,7 +40,14 @@ function Home() {
           <p>
           I'm a Cybersecurity IT engineer | 🚩​CTF Player | 🧠​Multipotential | 🧗​Climber | So much more…
           </p>
-          <p>This is my <a href="https://whiteroselk.github.io/">Digital Garden / Blog Space.</a> 🌱.</p>
+          <ul>
+            <li>Cybersecurity IT engineer</li>
+            <li>🚩​CTF Player</li>
+            <li>🧠​Multipotential</li>
+            <li>🧗​Climber</li>
+            <li>So much more…</li>
+          </ul>
+          <p>This is my <a href="https://whiteroselk.github.io/">Blog Space.</a> 🌱.</p>
           <p>This is where I learn in public 📚.</p>
           <SocialLinks />
           <p>
