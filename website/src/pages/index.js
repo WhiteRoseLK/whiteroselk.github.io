@@ -35,7 +35,7 @@ function Home() {
             display: isLoading ? "none" : "block",
           }}
         >
-          <p>Plop, je m'appel:</p>
+          <p>Plop, my name is:</p>
           <h2 className="text-success">Mathieu</h2> <h2 className="text-failure">WhiteRose</h2> <h2 className="text-success">Bannwarth</h2>
           <p>
           I'm
@@ -53,7 +53,7 @@ function Home() {
           <p>
             <a href="#main">
               <button className="border-0 rounded p-2 pl-4 pr-0 bg-primary-900 hover:bg-primary-800 transition text-white text-lg cursor-pointer">
-                whoami<span className="pl-1 animate-pulse">▎</span>
+                Qui suis-je ?<span className="pl-1 animate-pulse">▎</span>
               </button>
             </a>
           </p>
@@ -62,7 +62,7 @@ function Home() {
       <main id="main" ref={mainRef} hidden={true}>
         <div className={styles.aboutHeader}>
           <h2 className="border-0 border-b-4 border-solid border-success">
-            Who am I
+            Qui suis-je ?
           </h2>
         </div>
         <div className={styles.about}>
@@ -92,12 +92,12 @@ function Home() {
         </div>
         <section className={styles.directory}>
           <div className="container">
-            <h3>Continue exploring?</h3>
+            <h3>On continue ?</h3>
             <nav className="pagination-nav">
               <div className="pagination-nav__item">
                 <Link className="pagination-nav__link" to={useBaseUrl("docs/")}>
-                  <div className="pagination-nav__sublabel">Refer to</div>
-                  <div className="pagination-nav__label">My docs</div>
+                  <div className="pagination-nav__sublabel">Par ici</div>
+                  <div className="pagination-nav__label">Les docs</div>
                 </Link>
               </div>
               <div className="pagination-nav__item">
@@ -105,8 +105,8 @@ function Home() {
                   className="pagination-nav__link"
                   to={useBaseUrl("projects/")}
                 >
-                  <div className="pagination-nav__sublabel">Check out</div>
-                  <div className="pagination-nav__label">My projects</div>
+                  <div className="pagination-nav__sublabel">Par la</div>
+                  <div className="pagination-nav__label">Les projets</div>
                 </Link>
               </div>
             </nav>
