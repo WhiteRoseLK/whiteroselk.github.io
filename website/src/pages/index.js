@@ -37,7 +37,7 @@ function Home() {
         >
           <p>Plop, my name is:</p>
           <div style={{clear: "both"}}>
-            <h3 className="text-success" style={{float: "left"}}>Mathieu</h3> <h2 className="text-danger" style={{float: "center"}}>WhiteRose</h2> <h3 className="text-success" style={{float: "right"}}>Bannwarth</h3>
+            <h3 className="text-success" style={{float: "left"}}>Mathieu</h3> <h2 className="text-danger">WhiteRose</h2> <h3 className="text-success" style={{float: "right"}}>Bannwarth</h3>
           </div>
           <hr />
           <p>
@@ -86,7 +86,7 @@ function Home() {
               ainsi que {" "}<Link to={useBaseUrl("projects/")}>mon répertoire de documentations et d'articles</Link>{" "}.
             </p>
             <p>
-              🧑‍🏫 A mes heures perdu, il m'arrive de
+              🧑‍🏫 A mes heures perdues, il m'arrive de
               {" "}<a href="https://www.superprof.fr/ingenieur-cybersecurite-propose-services-souhaiteraient-initier-programmation-python-java.html">
               donner des cours
               </a>{" "} de programmations ou de science.
