@@ -69,7 +69,7 @@ function Home() {
           <div>
             <img
               className={styles.aboutProfilePic}
-              src={useBaseUrl("img/profilepic.jpg")}
+              src={useBaseUrl("img/sticker.png")}
             />
           </div>
           <div className={styles.aboutText}>
