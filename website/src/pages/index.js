@@ -36,7 +36,7 @@ function Home() {
           }}
         >
           <p>Plop, my name is:</p>
-          <h2 className="text-success">Mathieu</h2> <h2 className="text-failure">WhiteRose</h2> <h2 className="text-success">Bannwarth</h2>
+          <h2 className="text-success">Mathieu</h2> <h2 className="text-danger">WhiteRose</h2> <h2 className="text-success">Bannwarth</h2>
           <p>
           I'm
           </p>
