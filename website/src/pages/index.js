@@ -36,7 +36,7 @@ function Home() {
           }}
         >
           <p>Plop, my name is:</p>
-          <div style="clear: both">
+          <div style={{clear: both}}>
             <h3 className="text-success">Mathieu</h3> <h2 className="text-danger">WhiteRose</h2> <h3 className="text-success">Bannwarth</h3>
           </div>
           <hr />
@@ -82,7 +82,7 @@ function Home() {
               splécialisé en CyberSécurité.
             </p>
             <p>
-              📚 Je suis autodidact, vous retrouverez ici bons nombres de mes {" "}<Link to={useBaseUrl("projects/")}> projets </Link>{" "}
+              📚 Je suis autodidact, vous retrouverez ici certains de mes {" "}<Link to={useBaseUrl("projects/")}> projets </Link>{" "}
               ainsi que {" "}<Link to={useBaseUrl("projects/")}>mon répertoire de documentations et d'articles</Link>{" "}.
             </p>
             <p>
