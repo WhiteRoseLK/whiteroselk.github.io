@@ -27,13 +27,13 @@ const internetProfiles = {
 };
 
 module.exports = {
-  title: "Mathieu Bannwarth",
+  title: "WhiteRose",
   tagline: 'Cybersecurity IT engineer | 🚩​CTF Player | 🧠​Multipotential | 🧗​Climber | So much more…',
   url: 'https://WhiteRoseLK.github.io',
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/logo.png",
-  organizationName: "WhiteRoseLK",
+  organizationName: "WhiteRose",
   projectName: "WhiteRoseLK.github.io",
   themeConfig: {
     colorMode: {
@@ -43,9 +43,9 @@ module.exports = {
     },
     navbar: {
       hideOnScroll: true,
-      title: "Mathieu Bannwarth",
+      title: "WhiteRose",
       logo: {
-        alt: "Mathieu Bannwarth",
+        alt: "WhiteRose",
         src: "img/logo.png",
         target: "_self",
       },
@@ -67,14 +67,14 @@ module.exports = {
     footer: {
       links: [
         {
-          title: "Connect",
+          title: "Réseaux",
           items: [
             internetProfiles.linkedin,
             internetProfiles.github,
           ],
         },
         {
-          title: "Discover",
+          title: "Décourvrir",
           items: [
             internetProfiles.docs,
             internetProfiles.projects,
@@ -82,7 +82,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Last updated on ${new Date().toDateString()}`,
+      copyright: `Dernière mise à jour le ${new Date().toDateString()}`,
     },
   },
   presets: [
