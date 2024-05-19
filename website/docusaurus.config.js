@@ -86,7 +86,7 @@ module.exports = {
     },
     prism: {
       additionalLanguages: ['ruby', 'hcl', 'docker', 'yaml'],
-      theme: require('prism-react-renderer/themes/nightOwl')
+      theme: require('prism-react-renderer').themes.nightOwl
     }
   },
   presets: [
