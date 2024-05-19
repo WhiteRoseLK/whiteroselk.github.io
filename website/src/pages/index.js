@@ -36,9 +36,7 @@ function Home() {
           }}
         >
           <p>Plop, my name is:</p>
-          <div style={{clear: "both"}}>
-            <h3 className="text-success" style={{float: "left"}}>Mathieu</h3><h3 className="text-success" style={{float: "right"}}>Bannwarth</h3>
-          </div>
+          <h3 className="text-success" style={{display: "inline-block"}}>Mathieu</h3><h1 className="text-danger" style={{display: "inline-block"}}>WhiteRose</h1><h3 className="text-success" style={{display: "inline-block"}}>Bannwarth</h3>
           <hr />
           <p>
           I'm
