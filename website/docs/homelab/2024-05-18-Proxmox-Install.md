@@ -33,7 +33,7 @@ De plus cela voulait dire qu'en cas d'utilisation de la tour, j'aurais été dan
 
 J'ai donc réfléchis et j'ai finis par relier le serveur de la manière suivante :
 
-![Schéma HomeLab V1](/img/blog/homelab/2024-05-18-Proxmox-Install/Architecture.png)
+![Schéma HomeLab V1](/img/docs/homelab/2024-05-18-Proxmox-Install/Architecture.png)
 
 Pour faire simple, le serveur est relié directement sur un répéteur Wifi présent dans la pièce ce qui lui permet de se connecter à la box présente dans le salon et donc d'avoir accès à internet.
 
