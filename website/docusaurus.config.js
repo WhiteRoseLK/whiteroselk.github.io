@@ -46,7 +46,7 @@ module.exports = {
       title: "WhiteRose",
       logo: {
         alt: "WhiteRose",
-        src: "img/logo.png",
+        src: "img/sticker.png",
         target: "_self",
       },
       items: [
