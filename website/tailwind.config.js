@@ -31,7 +31,7 @@ module.exports = {
       },
       success: "#0d8d4f",
       warning: "#f4b400",
-      danger: "#db4437",
+      danger: "#bc2518",
     },
     extend: {},
   },
