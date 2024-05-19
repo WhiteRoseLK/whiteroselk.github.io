@@ -84,6 +84,10 @@ module.exports = {
       ],
       copyright: `Dernière mise à jour le ${new Date().toDateString()}`,
     },
+    prism: {
+      additionalLanguages: ['ruby', 'hcl', 'docker', 'yaml'],
+      theme: require('prism-react-renderer/themes/nightOwl')
+    }
   },
   presets: [
     [
