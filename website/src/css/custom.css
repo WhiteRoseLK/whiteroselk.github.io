@@ -33,6 +33,10 @@
   --ifm-code-font-size: 95%;
 }
 
+.container {
+  max-width: var(--ifm-container-width-xl);
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
