@@ -3,13 +3,11 @@
 module.exports = {
   corePlugins: {
     preflight: false, // disable Tailwind reset to avoid overriding Docusaurus styles
+    container: false,
   },
   content: ["./src/**/*.{js,jsx,ts,tsx}", "../docs/**/*.mdx"],
   darkMode: ["class", '[data-theme="dark"]'], // hooks into docusaurus' dark mode settings
   theme: {
-    container: {
-      center: true
-    },
     colors: {
       white: "#fff",
       primary: {
