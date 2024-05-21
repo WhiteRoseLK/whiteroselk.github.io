@@ -34,7 +34,7 @@
 }
 
 .container {
-  max-width: var(--ifm-container-width-xl);
+  margin: 0 auto;
 }
 
 .docusaurus-highlight-code-line {
