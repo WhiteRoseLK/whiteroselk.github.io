@@ -35,4 +35,4 @@ Mes notes et write-ups concernant d'autres CTF :
 
 Créer son propre HomeLab. Tester des choses. Essayer, échouer, recommencer, et finalement y arriver.
 
-Une majorité de mes playbooks sont disponnibles sur mon [GitHub](https://github.com/whiteroselk)
+Une majorité de mes playbooks sont disponibles sur mon [GitHub](https://github.com/whiteroselk)
