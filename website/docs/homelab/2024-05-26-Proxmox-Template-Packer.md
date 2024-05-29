@@ -92,8 +92,9 @@ template_id = 998
 
 Ce fichier contient les variables sensibles. Pour ma part un token et le mot de passe SSH du template
 
-[!CAUTION]
+:::caution
 Ce fichier contient des informations sensibles. Attention à ne pas l'ajouter vos commits.
+:::
 
 ```text
 proxmox_token = ""
