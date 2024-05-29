@@ -100,3 +100,18 @@ Ce fichier contient des informations sensibles. Attention à ne pas l'ajouter vo
 proxmox_token = ""
 template_default_password = ""
 ```
+### Deploy
+
+Pour valider les fichiers de configurations :
+
+```bash
+packer validate -var-file=variables.pkrvars.hcl .
+```
+
+Pour créer le template :
+
+```bash
+packer build -var-file=variables.pkrvars.hcl .
+```
+
+Si tout fonctionne, un template a du être créé sur proxmox.
