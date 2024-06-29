@@ -12,7 +12,7 @@ Comme vous pouvez le voir j'utilise principalement la suite *arr qui permet une 
 
 La liste des logiciels et leurs fonctions:
 
-- [Radarr](https://radarr.video) Pour les films [=>]()
+- [Radarr](https://radarr.video) Pour les films
 - [Sonarr](https://sonarr.tv) Pour les Séries
 - [Plex](https://www.plex.tv) Le lecteur de contenue
 - [Prowlarr](https://prowlarr.com) L'indexeur pour Torrent
