@@ -6,7 +6,7 @@ Une des raisons pour lesquels j'ai eu envie de monter mon propre lab a été pou
 
 Pour le moment, mon architecture ressemble à ça :
 
-![Schéma Arr V1](/img/docs/homelab/*arr/README/Architecture *arr.png)
+![Schéma Arr V1](/img/docs/homelab/arr/README/Architecture-arr.png)
 
 Comme vous pouvez le voir j'utilise principalement la suite *arr qui permet une installation d'une facilité déconcertante.
 
