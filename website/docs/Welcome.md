@@ -18,7 +18,7 @@ Créer son propre HomeLab. Tester des choses. Essayer, échouer, recommencer, et
 
 Une majorité de mes playbooks sont disponibles sur mon [GitHub](https://github.com/whiteroselk)
 
-La documentation associée est disponible principalement [ici](/docs/homelab)
+La documentation associée est disponible principalement [ici](homelab)
 
 ## 🚩 CTF Player
 
