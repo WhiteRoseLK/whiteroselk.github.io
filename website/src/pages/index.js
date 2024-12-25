@@ -83,7 +83,7 @@ function Home() {
             </p>
             <p>
               📚 Je suis autodidact, vous retrouverez ici certains de mes {" "}<Link to={useBaseUrl("projects/")}> projets </Link>{" "}
-              ainsi que {" "}<Link to={useBaseUrl("projects/")}>mon répertoire de documentations et d'articles</Link>{" "}.
+              ainsi que {" "}<Link to={useBaseUrl("docs/")}>mon répertoire de documentations et d'articles</Link>{" "}.
             </p>
             <p>
               🧑‍🏫 A mes heures perdues, il m'arrive de
